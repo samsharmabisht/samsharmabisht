@@ -1,5 +1,5 @@
-# Profile artwork
+# Profile typography
 
-The light and dark SVG headers were created for Sam Sharma's GitHub profile. Their connected wireframe surfaces are abstract illustrations, not product screenshots or diagrams of a private system.
+The light and dark name graphics were typeset for Sam Sharma's GitHub profile using General Sans Regular from [Fontshare](https://www.fontshare.com/fonts/general-sans), matching the typography of his personal website. The lettering is outlined in SVG and requires no external fonts, scripts or network requests.
 
-Typography: General Sans Regular, from [Fontshare](https://www.fontshare.com/fonts/general-sans). The lettering is outlined inside the artwork; no external font, script, or network request is required. See the [Fontshare license](https://www.fontshare.com/licenses/itf-free-font-license).
+[Fontshare license](https://www.fontshare.com/licenses/itf-free-font-license).
