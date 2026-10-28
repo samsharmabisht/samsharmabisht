@@ -18,9 +18,9 @@ Led a four-person game studio. Built motion-matching animation, shaders for gras
 
 ### Solvynth
 
-Founder · 2023–2026
+Founder · April 2025–January 2026
 
-Led product direction and hands-on engineering for applications, data workflows and automation. Paused in August 2026.
+Led product direction and hands-on engineering for applications, data workflows and automation. Paused in January 2026.
 
 ### ACES Team
 
