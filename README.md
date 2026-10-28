@@ -30,4 +30,4 @@ Built software, internal tools and business workflow automation alongside the pe
 
 <br>
 
-[samxwayout.com](https://samxwayout.com) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/sam-sharma-bisht/)
+[samxwayout.com](https://samxwayout.com) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/sam-sharma-bisht/) &nbsp; / &nbsp; [reach@samxwayout.com](mailto:reach@samxwayout.com)
